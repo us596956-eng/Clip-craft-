@@ -1,0 +1,6 @@
+{
+  "name": "ClipCraft AI",
+  "description": "Automatically cut long-form videos into engaging short vertical videos with AI-generated hooks and kinetic captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
